@@ -1,0 +1,14 @@
+name: fjordeco
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - jupyter
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - numpy
+  - netcdf4
+  - r-irkernel
+  - r-ncdf4
