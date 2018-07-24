@@ -10,5 +10,7 @@ dependencies:
   - matplotlib
   - numpy
   - netcdf4
+  - r-ggplot2
   - r-irkernel
   - r-ncdf4
+  - r-raster
